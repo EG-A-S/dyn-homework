@@ -15,12 +15,21 @@ You might be familiar with Angular but not Ionic - and this is completely fine. 
 4. Install all dependencies with `npm install`
 5. Run `npm run start`. Your app should be now up and running on [localhost:4200](http://localhost:4200)!
 
-## Submission instructions
-- clone this repository to a private repository on your GitHub account, 
-- invite us to it (amiam@dynaway.com; kacan@dynaway.com; mapla@dynaway.com; rje@dynaway.com; smart@dynaway.com)
-   - you can do that under (your new private repository)/settings/collaborators and teams/add people
-- please **DO NOT** publish your solutions on a public repository
-- **DO NOT** make a fork of the project, since that would also be public
+## Submission Instructions
+
+- **DO NOT** publish your solutions on a public repository.
+- **DO NOT** fork the project
+
+1. **Clone this repository** to a private repository on your GitHub account.
+   
+2. **Invite us to your private repository**. You can add us as collaborators by sending invitations to:
+   - amiam@dynaway.com
+   - kacan@dynaway.com
+   - mapla@dynaway.com
+   - rje@dynaway.com
+   - smart@dynaway.com
+
+3. You can do this under `(your new private repository)/settings/collaborators and teams/add people`.
 
 ## Task #1 🐞
 You've probably noticed that the app is running, yet we can't see any content 😕. It might have happened that a bug sneaked into our code. Can you find it and fix it? 
